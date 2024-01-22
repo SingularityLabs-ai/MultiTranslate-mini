@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### MultiTranslate is a multi-chatbot
+### MultiTranslate simultaneously translates into multiple languages
 
 [![author][author-image]][author-url]
 [![license][license-image]][license-url]
