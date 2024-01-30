@@ -25,10 +25,10 @@ English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md) &nbsp;&nbsp;|&nbsp;&
 
 ### Install
 
-<a href="https://chrome.google.com/webstore/detail/multigpt-access-all-chatb/dfobejficjaelohpjceiicphofmmglop?hl=en&authuser=0">
-    <img src="https://user-images.githubusercontent.com/64502893/231991498-8df6dd63-727c-41d0-916f-c90c15127de3.png" width="200" alt="Get MultiGPT for Chromium"> </a><a href="https://microsoftedge.microsoft.com/addons/detail/hdlddhcngcdpcgajecjoccekfofmllfn">
-    <img src="https://user-images.githubusercontent.com/64502893/231991158-1b54f831-2fdc-43b6-bf9a-f894000e5aa8.png" width="160" alt="Get MultiGPT for Microsoft Edge">
-</a><a href="https://chrome.google.com/webstore/detail/multigpt-access-all-chatb/dfobejficjaelohpjceiicphofmmglop?hl=en&authuser=0">
+<a href="https://chrome.google.com/webstore/detail/multitranslate-translate/aiaddlihohapmicgpmeilalegcokbjif">
+    <img src="https://user-images.githubusercontent.com/64502893/231991498-8df6dd63-727c-41d0-916f-c90c15127de3.png" width="200" alt="Get MultiTranslate for Chromium"> </a><a href="https://microsoftedge.microsoft.com/addons/detail/cibohmlcaihecikhicoffijagcfblgpp">
+    <img src="https://user-images.githubusercontent.com/64502893/231991158-1b54f831-2fdc-43b6-bf9a-f894000e5aa8.png" width="160" alt="Get MultiTranslate for Microsoft Edge">
+</a><a href="https://chrome.google.com/webstore/detail/multitranslate-translate/aiaddlihohapmicgpmeilalegcokbjif">
     <img src="https://github.com/SingularityLabs-ai/MultiTranslate-mini/assets/2527354/24646859-1191-423a-a84a-1c3574c20864" width="160" alt="Get MultiGPT for Brave">
 </a>
 
